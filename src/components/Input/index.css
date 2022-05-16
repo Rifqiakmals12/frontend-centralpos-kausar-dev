@@ -1,0 +1,20 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.costumeInput{
+    border: 1px solid #5A5C69;
+    border-radius: 100px;
+}
+
+.costumeInput::placeholder{
+    font-weight: 300;
+    color: #5A5C69;
+}
+
+.labelInput{
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    color: #858796;
+}

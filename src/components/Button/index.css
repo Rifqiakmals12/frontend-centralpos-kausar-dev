@@ -1,0 +1,17 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.buttonPrimary{
+    background-color: #272727;
+    font-weight: 600;
+    border-radius: 18.5px;
+}
+
+.buttonSecondary{
+    background-color: white;
+    font-weight: 600;
+    color: #858796;
+    border: 1px solid #5A5C69;
+    border-radius: 100px;
+}

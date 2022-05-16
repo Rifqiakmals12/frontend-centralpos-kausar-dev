@@ -1,0 +1,57 @@
+* {
+     font-family: 'Poppins', sans-serif;
+}
+
+.labelProduk{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #5A5C69;
+    margin-bottom: 55px;
+}
+
+.labelInput {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    color: #858796;
+}
+
+.desc{
+    font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+}
+
+.imgPrev{
+    width: 147px;
+    height: 147px;
+}
+
+#input[type="file"] {
+    display: none;
+}
+
+.inputWrapper {
+    border: 1px solid #5A5C69;
+    border-radius: 100px;
+    width: 147px;
+}
+
+
+.labelCostumeInput {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.leftSide{
+    margin-right: 157px;
+}
+
+.descPhoto{
+    font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+        color: #858796;
+}
